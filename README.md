@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/8G6WQfU.gif" alt="Welcome to Hassen's GitHub!" width="100%">
+<img src="[https://i.imgur.com/8G6WQfU.gif](https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif)" alt="Welcome to Hassen's GitHub!" width="100%">
 
 
 <h1 align="center">Hi there, I'm Hassen Ben Douissa 👋</h1>
