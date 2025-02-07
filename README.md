@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif?raw=true" alt="Welcome to Hassen's GitHub!" width="100%">
+<img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif?raw=true" 
+     alt="Welcome to Hassen's GitHub!" 
+     style="width: 100%; height: 120px; object-fit: cover;">
+
 
 
 
