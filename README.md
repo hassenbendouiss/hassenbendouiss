@@ -1,78 +1,94 @@
-# 👋 Hi there, I'm Hassen Ben Douissa!
+<!-- Banner -->
+<img src="https://i.imgur.com/8G6WQfU.gif" alt="Welcome to Hassen's GitHub!" width="100%">
 
-🚀 **A Full Stack Web Developer** with a passion for building impactful, user-centric applications. I specialize in creating dynamic, responsive web experiences and love diving into both front-end and back-end development.
+<h1 align="center">Hi there, I'm Hassen Ben Doulissa 👋</h1>
 
----
+<p align="center">
+  <b>A Full Stack Web Developer 🚀 | Tech Enthusiast 💻 | Problem Solver 🧩</b>
+</p>
 
-## 🚀 Skills & Technologies
-
-💻 **Languages & Frameworks:**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-🛠️ **Tools & Platforms:**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-🔧 **Other Technologies:**
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:hassen.bendoulissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/hassenbendouiss"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"></a>
+</p>
 
 ---
 
-## 🌟 Projects
+## 🚀 About Me
 
-Here are some of the projects I've worked on:
-
-### 🔹 [Coding Ducks](#)  
-*A coding platform where developers can connect, share, and conquer challenges.*
-
-### 🔹 [Coupon Luxury](#)  
-*A sleek coupon site that helps users save money on their favorite products.*
-
-### 🔹 [The Booking Desk](#)  
-*Your next adventure starts here—an intuitive travel booking platform.*
-
-### 🔹 [GhostChat](#)  
-*An anonymous chat platform for secure and private conversations.*
-
-### 🔹 [JNTUA Results Analyzer](#)  
-*A result analysis tool designed for educational institutions.*
+🌍 I'm from Tunisia 🇹🇳  
+💼 Currently working on exciting **Full Stack Projects**  
+🎨 Passionate about **UI/UX Design**, **Robotics**, and **Tech Innovations**  
+🏋️‍♂️ A self-proclaimed **gymrat** who helps moms burn fat and build muscle 💪  
+✈️ Love to **travel** and explore new places (Munich, Italy, Turkey are just the start!)
 
 ---
 
-## 🤝 Let's Work Together!
+## 🛠 Skills & Technologies
 
-Feel free to reach out if you're interested in collaborating on a project, or if you just want to chat about tech, coding, or anything in between.
-
-📧 **Email:** hassen.bendoulissa[at]gmail.com  
-💼 **[Resume](#)** | 🔗 **[LinkedIn](https://linkedin.com/in/your-profile)** | 💻 **[Portfolio](#)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,materialui,bootstrap,vite,graphql,git,github,docker,linux" alt="Skills" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
 
-![Hassen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 [Coding Ducks](#)  
+*A dynamic coding platform for developers to connect, share, and conquer challenges.*
+
+![Coding Ducks](https://via.placeholder.com/600x300?text=Coding+Ducks+Project+Screenshot)
+
+---
+
+### 💸 [Coupon Luxury](#)  
+*Helping users save on their favorite products with an intuitive coupon site.*
+
+![Coupon Luxury](https://via.placeholder.com/600x300?text=Coupon+Luxury+Project+Screenshot)
+
+---
+
+### ✈️ [The Booking Desk](#)  
+*Where your next adventure begins! A travel booking platform designed for explorers.*
+
+![The Booking Desk](https://via.placeholder.com/600x300?text=The+Booking+Desk+Project+Screenshot)
+
+---
+
+### 👻 [GhostChat](#)  
+*Start sending and receiving messages anonymously in a secure environment.*
+
+![GhostChat](https://via.placeholder.com/600x300?text=GhostChat+Project+Screenshot)
+
+---
+
+### 📊 [JNTUA Results Analyzer](#)  
+*An efficient tool for analyzing educational results with precision.*
+
+![Results Analyzer](https://via.placeholder.com/600x300?text=Results+Analyzer+Project+Screenshot)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=tokyonight" alt="Hassen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- **Email:** hassen.bendoulissa@gmail.com  
+- **[LinkedIn](https://linkedin.com/in/your-profile)** | **[Portfolio](https://your-portfolio-link)** | **[GitHub](https://github.com/hassenbendouiss)**  
 
 ---
 
 ## ✨ Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Code is like humor. When you have to explain it, it’s bad." 😄
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! If you liked it, don't forget to ⭐ some of my repositories!
