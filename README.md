@@ -1,7 +1,8 @@
 <!-- Banner -->
-<img src="[https://i.imgur.com/8G6WQfU.gif](https://fr.pinterest.com/pin/350647521008169739/)" alt="Welcome to Hassen's GitHub!" width="100%">
+<img src="https://i.imgur.com/8G6WQfU.gif" alt="Welcome to Hassen's GitHub!" width="100%">
 
-<h1 align="center">Hi there, I'm Hassen Ben Doulissa 👋</h1>
+
+<h1 align="center">Hi there, I'm Hassen Ben Douissa 👋</h1>
 
 <p align="center">
   <b>A Full Stack Web Developer 🚀 | Tech Enthusiast 💻 | Problem Solver 🧩</b>
