@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer • Tech Alchemist • Problem Crusher 🔥
+   <b>A Full Stack Web Developer 🚀 | Tech Enthusiast 💻 | Problem Solver 🧩</b>
 </h3>
 
 <p align="center">
@@ -31,21 +31,26 @@
 </p>
 
 ---
+## 🧙‍♂️ Developer DNA
 
-## 🚀 About Me
-
-🌍 I'm from Tunisia 🇹🇳  
-💼 Currently working on exciting **Full Stack Projects**  
-🎨 Passionate about **UI/UX Design**, **Robotics**, and **Tech Innovations**  
-🏋️‍♂️ A self-proclaimed **gymrat** who helps moms burn fat and build muscle 💪  
-✈️ Love to **travel** and explore new places (Munich, Italy, Turkey are just the start!)
+```javascript
+const hassen = {
+  pronouns: "He" | "Him",
+  code: [JavaScript, TypeScript, Python],
+  frameworks: [React, Next.js, Node.js, Express],
+  databases: [MongoDB, PostgreSQL],
+  tools: [Docker, Git, Webpack, Jest],
+  architecture: ["microservices", "serverless", "SPA"],
+  current focus: "Building AI-powered applications",
+  hobbies: ["Robotics 🤖", "Gym Gains 💪", "Travel Photography 🌍"]
+};
 
 ---
 
 ## 🛠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,docker,git,webpack,jest" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,materialui,bootstrap,vite,graphql,git,github,docker,linux" alt="Skills" />
 </p>
 
 ---
