@@ -1,44 +1,30 @@
-<!-- Dynamic Banner with Glow Effect -->
-<div align="center">
-  <img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif?raw=true" 
-       alt="Hassen's Coding Universe" 
-       style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px; box-shadow: 0 0 20px #61dafb;">
-</div>
+<!-- Banner -->
+<img src="https://i.imgur.com/8G6WQfU.gif" alt="Welcome to Hassen's GitHub!" width="100%">
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Hi, I'm Hassen Ben Douissa
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h1>
+<h1 align="center">Hi there, I'm Hassen Ben Doulissa 👋</h1>
 
-<h3 align="center">
-<b>A Full Stack Web Developer 🚀 | Tech Enthusiast 💻 | Problem Solver 🧩</b>
-</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/hassenbendouissa
+  <b>A Full Stack Web Developer 🚀 | Tech Enthusiast 💻 | Problem Solver 🧩</b>
+</p>
 
-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:hassen.bendouiissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/hassenbendouiss"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:hassen.bendoulissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/hassenbendouiss"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"></a>
+  <a href="https://hassenbendouiss.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧙‍♂️ Developer DNA
+## 🚀 About Me
 
-```javascript
-const hassen = {
-  pronouns: "He" | "Him",
-  code: [JavaScript, TypeScript, Python],
-  frameworks: [React, Next.js, Node.js, Express],
-  databases: [MongoDB, PostgreSQL],
-  tools: [Docker, Git, Webpack, Jest],
-  architecture: ["microservices", "serverless", "SPA"],
-  currentFocus: "Building AI-powered applications",
-  hobbies: ["Robotics 🤖", "Gym Gains 💪", "Travel Photography 🌍"]
-};
-     style="width: 100%; height: 120px; object-fit: cover; display: block; margin: 0;">
+🌍 I'm from Tunisia 🇹🇳  
+💼 Currently working on exciting **Full Stack Projects**  
+🎨 Passionate about **UI/UX Design**, **Robotics**, and **Tech Innovations**  
+🏋️‍♂️ A self-proclaimed **gymrat** who helps moms burn fat and build muscle 💪  
+✈️ Love to **travel** and explore new places (Munich, Italy, Turkey are just the start!)
+
+---
 
 ## 🛠 Skills & Technologies
 
@@ -97,7 +83,7 @@ const hassen = {
 ## 📫 Let's Connect!
 
 - **Email:** hassen.bendoulissa@gmail.com  
-- **[LinkedIn](https://linkedin.com/in/your-profile)** | **[Portfolio](https://your-portfolio-link)** | **[GitHub](https://github.com/hassenbendouiss)**  
+- **[LinkedIn](https://linkedin.com/in/hassenbendouiss)** | **[Portfolio](https://hassenbendouiss.com)** | **[GitHub](https://github.com/hassenbendouiss)**  
 
 ---
 
