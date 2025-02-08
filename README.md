@@ -11,13 +11,21 @@
   <strong>"Turning complex problems into elegant solutions, one line of code at a time."</strong>
 </p>
 
+<!-- Social Badges -->
 <p align="center">
-  <a href="link-to-your-resume"><img src="https://img.shields.io/badge/Resume-00A4CC?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
-  <a href="your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="link-to-hire-page"><img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me"></a>
-  <img src="https://komarev.com/ghpvc/?username=hassenbendouiss&style=for-the-badge" alt="Profile Views">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://hassenbendouiss.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white">
+  </a>
+  <a href="mailto:hassen.bendoulissa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/yourprofile">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 </p>
-
 ---
 
 ## 🔧 **Tech Stack & Tools**
