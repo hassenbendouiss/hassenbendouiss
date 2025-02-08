@@ -74,19 +74,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassenbendouiss&theme=radical" alt="GitHub Streak" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=radical" alt="Top Languages" width="45%">
-</p>
-
----
-
 ## ✨ **Fun Facts About Me**
 
 - 🎯 Always up for a coding challenge or hackathon!
@@ -99,8 +86,8 @@
 ## 📬 **Let's Connect!**
 
 <p align="center">
-  📧 **Email:** hassen.bendoulissa(at)gmail.com  
-  💼 **LinkedIn:** [Your LinkedIn](your-linkedin-profile)  
+  📧 **Email:** hassen.bendouiissa(at)gmail.com  
+  💼 **LinkedIn:** [www.linkedin.com/in/hassenbendouissa)  
   🌐 **Portfolio:** [Your Portfolio](link-to-portfolio)
 </p>
 
