@@ -11,6 +11,24 @@
   <em>"Building seamless digital experiences, one line of code at a time."</em>
 </p>
 
+## 📫 **Let's Connect!**
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://hassenbendouiss.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white">
+  </a>
+  <a href="mailto:hassen.bendoulissa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/yourprofile">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
+
+---
 ---
 
 ## 🛠 **Tech Stack**
@@ -64,23 +82,5 @@
 
 ---
 
-## 📫 **Let's Connect!**
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://hassenbendouiss.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white">
-  </a>
-  <a href="mailto:hassen.bendoulissa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/yourprofile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-</p>
-
----
 
 *“Code is like humor. When you have to explain it, it’s bad.”* 😄
