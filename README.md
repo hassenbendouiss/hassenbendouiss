@@ -6,7 +6,7 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:#007acc;">Hassen Ben Douissa</span></h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer  
+  💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎨 Art Director 
   <br><br>
   <em>"Building seamless digital experiences, one line of code at a time."</em>
 </p>
