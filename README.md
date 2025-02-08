@@ -1,113 +1,94 @@
-<!-- Banner Image -->
+<!-- Dynamic Banner with Typing Effect -->
 <p align="center">
   <img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="Coding Banner" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=007ACC&center=true&vCenter=true&width=100%&lines=Full+Stack+Web+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing Animation">
 </p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#007acc;">Hassen Ben Douissa</span>!</h1>
+<h1 align="center">🚀 Welcome to My Coding Universe!</h1>
+<h3 align="center">🔧 Crafting Digital Experiences | 🌐 Bridging Ideas & Reality</h3>
 
+<!-- Social Badges -->
 <p align="center">
-  💻 Full Stack Web Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer  
-  <br>
-  <strong>"Turning complex problems into elegant solutions, one line of code at a time."</strong>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://hassenbendouiss.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white">
+  </a>
+  <a href="mailto:hassen.bendoulissa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/yourprofile">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 </p>
 
+<!-- Tech Stack Section with Animated Icons -->
+## 🛠️ Tech Arsenal
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+
+<!-- Project Cards -->
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| **[Coding Ducks](https://github.com/yourrepo)** | Collaborative coding platform with real-time pair programming | React, Node.js, WebSocket | [Live Demo](https://codingducks.dev) |
+| **GhostChat** | Anonymous chat application with E2E encryption | TypeScript, Socket.io, Redis | [Try Beta](https://ghostchat.app) |
+| **JNTUA Analyzer** | Academic performance visualization tool | Python, Pandas, Matplotlib | [See Analysis](https://jntua.results) |
+
+<!-- Dynamic GitHub Stats Section -->
+## 📈 GitHub Analytics
+
 <p align="center">
-  <a href="link-to-your-resume"><img src="https://img.shields.io/badge/Resume-00A4CC?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
-  <a href="your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="link-to-hire-page"><img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me"></a>
-  <img src="https://komarev.com/ghpvc/?username=hassenbendouiss&style=for-the-badge" alt="Profile Views">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hassenbendouiss&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=radical&langs_count=8"/>
 </p>
 
----
-
-## 🔧 **Tech Stack & Tools**
-
-<table width="100%">
-  <tr>
-    <td><strong>🌐 Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🔧 Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 **Featured Projects**
-
-### 🦆 [**Coding Ducks**](#)
-*A collaborative platform for developers to tackle coding challenges together.*
-
-### 🎟️ [**Coupon Luxury**](#)
-*Helping shoppers save more with curated coupons and deals.*
-
-### 🗺️ [**The Booking Desk**](#)
-*Simplifying travel bookings for seamless adventure planning.*
-
-### 👻 [**GhostChat**](#)
-*An anonymous chat app prioritizing privacy and secure communication.*
-
-### 📊 [**JNTUA Results Analyzer**](#)
-*Visualizing and analyzing academic results with robust data tools.*
-
----
-
-## 📊 **GitHub Stats**
-
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassenbendouiss&theme=radical" alt="GitHub Streak" width="45%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hassenbendouiss&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=radical" alt="Top Languages" width="45%">
-</p>
+<!-- Fun Section -->
+## 🎮 Coding & Beyond
 
----
+- 🔭 Currently hacking: **AI-powered code review tool**
+- 🌱 Learning: **Rust & WebAssembly**
+- 👯 Looking to collaborate on: **Open source dev tools**
+- 🏆 2023 Achievement: **Won MLH Local Hack Day**
+- ⚡ Fun fact: **I can solve a Rubik's cube while debugging code!**
 
-## ✨ **Fun Facts About Me**
-
-- 🎯 Always up for a coding challenge or hackathon!
-- 💡 I believe in continuous learning and sharing knowledge.
-- 💪 Fitness enthusiast who codes and lifts in equal measure.
-- 🌍 Avid traveler who finds inspiration in every new place I visit.
-
----
-
-## 📬 **Let's Connect!**
+<!-- Support Section -->
+## ☕ Let's Connect & Collaborate!
 
 <p align="center">
-  📧 **Email:** hassen.bendoulissa(at)gmail.com  
-  💼 **LinkedIn:** [Your LinkedIn](your-linkedin-profile)  
-  🌐 **Portfolio:** [Your Portfolio](link-to-portfolio)
+  <a href="https://www.buymeacoffee.com/hassenb" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/main/assets/Bottom.svg" alt="Thank You" width="100%">
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
 
----
-
-### *"Code is like humor. When you have to explain it, it’s bad."* 😄
+<!-- Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" alt="Footer Banner">
+</p>
