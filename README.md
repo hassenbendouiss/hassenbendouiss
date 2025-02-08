@@ -89,20 +89,4 @@
 - 💪 Fitness enthusiast who codes and lifts in equal measure.
 - 🌍 Avid traveler who finds inspiration in every new place I visit.
 
----
-
-## 📬 **Let's Connect!**
-
-<p align="center">
-  📧 **Email:** hassen.bendouiissa(at)gmail.com  
-  💼 **LinkedIn:** [www.linkedin.com/in/hassenbendouissa)  
-  🌐 **Portfolio:** [Your Portfolio](link-to-portfolio)
-</p>
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/main/assets/Bottom.svg" alt="Thank You" width="100%">
-</p>
-
----
-
 ### *"Code is like humor. When you have to explain it, it’s bad."* 😄
