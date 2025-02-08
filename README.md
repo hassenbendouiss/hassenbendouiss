@@ -1,65 +1,76 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif)" alt="Coding Banner" width="100%">
+  <img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="Coding Banner" width="100%">
 </p>
 
-# 👋 Hi, I'm Hassen Ben Douissa
+<h1 align="center">👋 Hi, I'm Hassen Ben Douissa</h1>
 
-**A Full Stack Web Developer** with a passion for building dynamic, responsive, and user-friendly web applications. I specialize in creating modern solutions using the latest technologies and best practices in software development.
+<p align="center">
+  <strong>Full Stack Web Developer</strong> with a passion for building dynamic, responsive, and user-friendly web applications. I specialize in crafting modern solutions using the latest technologies and best practices in software development.
+</p>
 
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=google-drive)](link-to-your-resume)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-profile)  
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-brightgreen?style=flat-square&logo=fiverr&logoColor=white)](link-to-hire-page)
-
----
-
-## 🚀 Skills
-
-I have experience working with a wide range of technologies in both frontend and backend development.
-
-### **Frontend**
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap
-- **Tools:** Redux, Material-UI, Webpack, Vite
-
-### **Backend**
-- **Languages:** Node.js, Express.js
-- **Databases:** MongoDB, Firebase
-- **Authentication:** JWT, OAuth
-
-### **Other Tools & Technologies**
-- Git & GitHub, Docker, REST APIs, GraphQL
-- CI/CD, Agile Methodologies, VS Code, Postman
+<p align="center">
+  <a href="link-to-your-resume">
+    <img src="https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume">
+  </a>
+  <a href="your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="link-to-hire-page">
+    <img src="https://img.shields.io/badge/-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me">
+  </a>
+</p>
 
 ---
 
-## 💼 Projects
+## 🚀 **Skills & Technologies**
 
-Here are some of the projects I've worked on, showcasing my versatility as a full-stack developer:
+### **Frontend Development**  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap  
+- **Tools:** Redux, Material-UI, Webpack, Vite  
+
+### **Backend Development**  
+- **Languages:** Node.js, Express.js  
+- **Databases:** MongoDB, Firebase  
+- **Authentication:** JWT, OAuth  
+
+### **Other Tools & Technologies**  
+- **Version Control:** Git & GitHub  
+- **Containerization:** Docker  
+- **APIs:** RESTful APIs, GraphQL  
+- **Development Tools:** CI/CD, VS Code, Postman  
+- **Methodologies:** Agile, Test-Driven Development (TDD)  
+
+---
+
+## 💼 **Featured Projects**
+
+Here are some of the projects that reflect my versatility and passion for web development:
 
 1. **[Coding Ducks](#)**  
-   _A coding platform to connect developers and conquer challenges together._
+   *A platform for developers to connect and conquer coding challenges together.*
 
 2. **[Coupon Luxury](#)**  
-   _A coupon site designed to help users save more while shopping._
+   *A site dedicated to helping users save more with exclusive coupons.*
 
 3. **[The Booking Desk](#)**  
-   _A travel booking platform for seamless adventure planning._
+   *A travel booking platform designed for seamless adventure planning.*
 
 4. **[GhostChat](#)**  
-   _An anonymous chat application focused on secure communication._
+   *An anonymous chat app prioritizing secure, private communication.*
 
 5. **[JNTUA Results Analyzer](#)**  
-   _A robust tool for analyzing and visualizing academic results._
+   *A robust tool for analyzing and visualizing academic results.*
 
 6. **[My Portfolio](#)**  
-   _This very portfolio showcasing my skills and projects._
+   *A showcase of my projects, skills, and creative journey.*
 
 ---
 
-## 📬 Contact Me
+## 📬 **Get in Touch**
 
-I'm always open to new opportunities and collaborations! Feel free to reach out if you'd like to work together.
+I'm always open to new opportunities, collaborations, and exciting projects. Let’s create something amazing together! 🚀
 
 📧 **Email:** hassen.bendoulissa(at)gmail.com  
 💼 **LinkedIn:** [Your LinkedIn](your-linkedin-profile)  
@@ -69,16 +80,18 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://your-image-link.com/coding.gif" alt="Coding Animation" width="60%">
+  <img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="Coding Animation" width="70%">
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 **GitHub Stats**
 
-![Hassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassenbendouiss&show_icons=true&theme=radical" alt="Hassen's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenbendouiss&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-### Let's build something amazing together! 🚀
+<h3 align="center">✨ Let's build something extraordinary together! ✨</h3>
