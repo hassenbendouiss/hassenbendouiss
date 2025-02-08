@@ -10,6 +10,14 @@
   <br><br>
   <em>"Building seamless digital experiences, one line of code at a time."</em>
 </p>
+## 🌟 **About Me**
+
+- 🎯 Always ready for a new coding challenge.
+- 💡 Passionate about continuous learning and sharing knowledge.
+- 💪 Fitness enthusiast balancing code and workouts.
+- 🌍 Travel lover, drawing inspiration from every place I visit.
+
+---
 
 ## 📫 **Let's Connect!**
 
@@ -73,14 +81,6 @@
 
 ---
 
-## 🌟 **About Me**
-
-- 🎯 Always ready for a new coding challenge.
-- 💡 Passionate about continuous learning and sharing knowledge.
-- 💪 Fitness enthusiast balancing code and workouts.
-- 🌍 Travel lover, drawing inspiration from every place I visit.
-
----
 
 
 *“Code is like humor. When you have to explain it, it’s bad.”* 😄
