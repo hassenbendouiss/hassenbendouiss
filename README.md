@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/hassenbendouiss/hassenbendouiss/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="Coding Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi there! 👋 I'm <span style="color:#007acc;">Hassen Ben Douissa</span></h1>
 
